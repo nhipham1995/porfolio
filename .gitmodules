@@ -1,0 +1,3 @@
+[submodule "project/Ubiquity"] 
+  path = project/Ubiquity
+  url = https://github.com/nhipham1995/ubiquity-maquette
